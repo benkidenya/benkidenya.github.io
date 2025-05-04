@@ -3,22 +3,22 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: Gerald
+first_name: Kidenya
 middle_name:
-last_name: Mboowa
-email: gmboowa@gmail.com
+last_name: Benson
+email: benkidenya@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Gerald Mboowa integrates data science, genomics, and bioinformatics to tackle critical global health challenges, driving innovations in antimicrobial resistance surveillance, outbreak investigation, and pathogen characterization.
+  Benson Kidenya is a Trained Medical Doctor, Epidemiologist and a Molecular Biologist with expertise in Bioinformatics. He is the Asscociate Professor who integrates biological and epidemilogical data, genomics, and bioinformatics to address critical biological and epidemiological health challenges.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
-keywords: academic-website, gerald-mboowa, mboowa  # add your own keywords or leave empty
+keywords: Training, Research  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
-url: https://gmboowa.github.io # the base hostname & protocol for your site
+url: https://benkidenya.github.io # the base hostname & protocol for your site
 baseurl:  # the subpath of your site, e.g. /blog/
-repository: gmboowa/gmboowa.github.io # The GitHub repository name
+repository: benkidenya/benkidenya.github.io # The GitHub repository name
 last_updated:  # set to true if you want to display last updated in the footer
 impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 
@@ -66,22 +66,22 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: gmboowa # your GitHub user name
+github_username: benkidenya # your GitHub user name
 gitlab_username: # your GitLab user name
-twitter_username: GeraldGmboowa # your Twitter handle
+twitter_username:  # your Twitter handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
-linkedin_username: gerald-mboowa-99020537 # your LinkedIn user name
+linkedin_username: # your LinkedIn user name
 telegram_username: # your Telegram user name
-scholar_userid: P9dSDhoAAAAJ # your Google Scholar ID
+scholar_userid: RH_44QgAAAAJ # your Google Scholar ID
 semanticscholar_id: # your Semantic Scholar ID
-whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
-orcid_id: 0000-0001-8445-9414 # your ORCID ID
-medium_username: # your Medium username
+whatsapp_number: +255713550110 # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
+orcid_id: 0000-0001-6056-4156 # your ORCID ID
+medium_username: Richard # your Medium username
 quora_username: # your Quora username
 publons_id: # your ID on Publons
 lattes_id: # your ID on Lattes (Brazilian Lattes CV)
 osf_id: # your OSF ID
-research_gate_profile: Gerald-Mboowa # your profile on ResearchGate
+research_gate_profile: # your profile on ResearchGate
 scopus_id: # your profile on Scopus
 blogger_url: # your blogger URL
 work_url: # work page URL
@@ -103,7 +103,7 @@ zotero_username: # your zotero username
 wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 
 contact_note: >
-  The best way to reach me is through my personal email gmboowa@gmail.com
+  The best way to reach me is through my personal email benkidenya@gmail.com
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -281,8 +281,8 @@ display_categories: ['blockquotes'] # these categories will be displayed on the 
 
 scholar:
 
-  last_name: [Gerald]
-  first_name: [Mboowa]
+  last_name: [Kidenya]
+  first_name: [Benson]
 
   style: apa
   locale: en
